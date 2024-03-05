@@ -1,0 +1,254 @@
+{"title": "DemonSlayer",
+"seats": [
+  {
+    "seatId": 1,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 2,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 3,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 4,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 5,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 6,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 7,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 8,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 9,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 10,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 11,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 12,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 13,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 14,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 15,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 16,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 17,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 18,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 19,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 20,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 21,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 22,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 23,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 24,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 25,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 26,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 27,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 28,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 29,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 30,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 31,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 32,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 33,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 34,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 35,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 36,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 37,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 38,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 39,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 40,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 41,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 42,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 43,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 44,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 45,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 46,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 47,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 48,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 49,
+    "status": "available",
+    "bookedBy": null
+  },
+  {
+    "seatId": 50,
+    "status": "available",
+    "bookedBy": null
+  }
+]
+}
