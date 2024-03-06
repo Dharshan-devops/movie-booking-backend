@@ -8,7 +8,7 @@ const movieRoutes=require('./routes/movie')
 
 const PORT = 8000
 
-
+//requiring db for enabling mongoDB connection
 require('./db')
 
 
@@ -18,7 +18,6 @@ app.use(cors())
 app.listen(PORT,(req,res)=>{
     console.log('App is listenin at port 8000')
 })
-
 
 app.use("/auth",authRoutes)
 app.use("/v1",movieRoutes)

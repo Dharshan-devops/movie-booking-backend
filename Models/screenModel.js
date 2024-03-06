@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const User = require('./userModel');
 const Schema = mongoose.Schema;
 
 
@@ -11,7 +12,14 @@ const screenSchema = new mongoose.Schema({
     time: { type: String, required: true },
     screenType: { type: String, required: true },
     screenName: { type: String, required: true },
-    seats: {type: Array}
+    seats: [{
+        seatId: Number,
+        status: String,
+        bookedBy:{
+            type: mongoose.Schema.Types.ObjectId,
+            ref: User
+        }
+    }]
 },
 { strict: false }
 );

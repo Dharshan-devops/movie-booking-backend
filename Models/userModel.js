@@ -14,7 +14,6 @@ const userSchema = new mongoose.Schema(
         },
         bookings:{
             type:String,
-            default:[]
         }
     }
 )
